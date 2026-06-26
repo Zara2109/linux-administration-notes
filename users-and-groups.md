@@ -24,7 +24,7 @@ Each group has:
 
 Example:
 
-``bash
+```bash
 groups
 id
 ```
@@ -39,6 +39,7 @@ Charcteristics:
 - Can modify any file or configuration
 
 Example:
+
 ```bash
 sudo su-
 whoami
