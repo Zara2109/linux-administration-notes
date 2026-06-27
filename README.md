@@ -1,15 +1,9 @@
 # Linux Administration Notes
-A collection of my Linux Administration notes, labs, and practical hands-on exercises as I build hands-on skills in Linux, AWS, and DevOps.
-##Topics Covered
-- Linux File System
-- File and Directory Management
-- Users and Groups
-- Permissions
-- Package Management
-- Systemctl
-- Journalctl
-- Networking Basics
-- Shell Scripting
+Linux Administration Notes
+
+A structured collection of Linux Administration notes, commands, troubleshooting workflows, and hands-on practice exercises.
+
+This repository documents my learning journey in Linux Administration, System Administration fundamentals, and DevOps-related concepts through practical labs and personal notes.
 
 ## Repository Structure
 
@@ -20,26 +14,33 @@ Linux-Administration-Notes/
 ├── users-and-groups.md
 ├── systemctl.md
 ├── journalctl.md
-└── networking.md
+├── basic-troubleshooting.md
+├── networking-basics.md
+└── shell-scripting.md
 ```
 
 ## Goals
 
-- Build strong Linux fundamentals
-- Practice administration tasks in a Linux VM
-- Document labs and exercises
-- Prepare for AWS and DevOps projects
+- Build strong Linux Administration fundamentals
+- Practice real-world troubleshooting workflows
+- Gain hands-on experience in a Linux VM
+- Document labs, commands, and exercises
+- Prepare for DevOps and Cloud roles
 
 ## Progress
+## Learning Roadmap
 
-- [x] Git and GitHub Setup
-- [ ] Linux Fundamentals
-- [ ] User Management
-- [ ] Permissions
-- [ ] Systemd and Services
-- [ ] Log Management
-- [ ] Networking
-- [ ] Shell Scripting
+- [x] Linux Permissions
+- [x] Users and Groups
+- [x] Systemctl
+- [x] Journalctl
+- [x] Basic Troubleshooting
+- [ ] Networking Basics
+- [ ] SSH
+- [ ] Process Management
+- [ ] Package Management
+- [ ] Bash Scripting
+- [ ] Cron Jobs
 
 ## Author
 
