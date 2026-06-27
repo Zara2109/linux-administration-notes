@@ -1,6 +1,6 @@
 # Systemctl Commands
 
-systemctl is used to mange services and the systemd init system in Linux
+systemctl is used to manage services and the systemd init system in Linux
 
 ## Check Service Status 
 
