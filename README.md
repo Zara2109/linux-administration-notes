@@ -37,10 +37,10 @@ Linux-Administration-Notes/
 - [x] Basic Troubleshooting
 - [x] Networking Basics
 - [x] SSH
-- [ ] Process Management
-- [ ] Package Management
-- [ ] Bash Scripting
-- [ ] Cron Jobs
+- [x] Process Management
+- [x] Package Management
+- [x] Bash Scripting
+- [x] Cron Jobs
 
 ## Author
 
