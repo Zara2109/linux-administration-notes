@@ -226,29 +226,3 @@ dnf info
 
 ---
 
-## Common Interview Questions
-
-### What is a package manager?
-
-A package manager is a tool used to install, update, remove, and manage software packages.
-
-### Which package manager is used in Ubuntu?
-
-APT.
-
-### Which package manager is used in RHEL and Rocky Linux?
-
-DNF.
-
-### What does apt update do?
-
-It refreshes the package list from repositories.
-
-### What is the difference between apt remove and apt purge?
-
-- `apt remove` removes the package.
-- `apt purge` removes the package and its configuration files.
-
-### What is a repository?
-
-A repository is a storage location from which software packages are downloaded and installed.
