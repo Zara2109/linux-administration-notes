@@ -35,8 +35,8 @@ Linux-Administration-Notes/
 - [x] Systemctl
 - [x] Journalctl
 - [x] Basic Troubleshooting
-- [ ] Networking Basics
-- [ ] SSH
+- [x] Networking Basics
+- [x] SSH
 - [ ] Process Management
 - [ ] Package Management
 - [ ] Bash Scripting
